@@ -1,5 +1,9 @@
 # Simple Blink Detector Using OpenCV
+### Gallery
 
+<p float="left">
+  <img src="https://raw.githubusercontent.com/niyazcoder/simpleblinkdetect/main/IMG_20250524_154041.jpg" width="200"/>
+</p>
 ## Overview
 
 This Python project uses OpenCV’s pre-trained Haar cascades to detect eye blinks via a webcam. It tracks and counts how many times the user blinks in real time, displaying the count both on the video feed and the console.
